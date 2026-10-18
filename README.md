@@ -1,5 +1,7 @@
 # Movie_App
 
+الاسم: ردينة هشام البيلي 
+
 <img width="1913" height="1025" alt="image" src="https://github.com/user-attachments/assets/07d38e2c-ba18-4356-90ce-81cecc45c212" />
 
 <img width="1920" height="1011" alt="image" src="https://github.com/user-attachments/assets/5f777373-748c-4f4d-8cb0-88dd42b064c9" />
